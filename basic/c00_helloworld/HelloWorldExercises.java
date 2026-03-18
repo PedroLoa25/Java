@@ -8,7 +8,7 @@ package c00_helloworld;
  */
 
 public class HelloWorldExercises{
-    void main() {
+    static void main() {
         System.out.println("Pedro Loayza"); // Imprimir mi nombre.
         System.out.println("Hola\nMundo"); // Imprimir dos lineas con un solo println.
         System.out.println("Tengo 18 años, " + "mi color favorito es el verde " + "y vivo en Juliaca"); // Imprimir mi edad, color favorito y ciudad.
